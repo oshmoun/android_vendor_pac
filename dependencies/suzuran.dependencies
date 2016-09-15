@@ -1,0 +1,92 @@
+[
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "device-sony-suzuran",
+        "target_path":  "device/sony/suzuran",
+        "revision":     "m-mr1"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "device-sony-kitakami",
+        "target_path":  "device/sony/kitakami",
+        "revision":     "m-mr1"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "device-sony-common",
+        "target_path":  "device/sony/common",
+        "revision":     "m-mr1"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "device-sony-sepolicy",
+        "target_path":  "device/sony/sepolicy",
+        "revision":     "m-mr1"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "device-sony-common-headers",
+        "target_path":  "device/sony/common-headers",
+        "revision":     "aosp/LA.BR.1.3.3_rb2.14"
+    },
+    {
+        "account":      "CyanogenMod",
+        "repository":   "android_device_qcom_common",
+        "target_path":  "device/qcom/common",
+        "revision":     "cm-13.0"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "kernel",
+        "target_path":  "kernel/sony/msm",
+        "revision":     "aosp/LA.BR.1.3.3_rb2.14"
+    },
+    {
+        "account":      "obsd39",
+        "repository":   "proprietary_vendor_sony",
+        "target_path":  "vendor/sony",
+        "revision":     "cr-5.0"
+    },
+    {
+        "account":      "SuperBenevolent",
+        "repository":   "aosp-vendor-qcom-extras",
+        "target_path":  "vendor/qcom/extras",
+        "revision":     "m-mr1"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "thermanager",
+        "target_path":  "hardware/sony/thermanager",
+        "revision":     "master"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "timekeep",
+        "target_path":  "hardware/sony/timekeep",
+        "revision":     "master"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "macaddrsetup",
+        "target_path":  "hardware/sony/macaddrsetup",
+        "revision":     "master"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "camera",
+        "target_path":  "hardware/sony/camera",
+        "revision":     "aosp/LA.BR.1.3.3_rb2.14"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "device-sony-common-init",
+        "target_path":  "device/sony/common-init",
+        "revision":     "m-mr1"
+    },
+    {
+        "account":      "sonyxperiadev",
+        "repository":   "packages_apps_ExtendedSettings",
+        "target_path":  "packages/apps/ExtendedSettings",
+        "revision":     "master"
+    }
+]
